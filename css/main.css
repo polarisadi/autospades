@@ -121,15 +121,7 @@ body {
       transition: 0.5s;
     }
     
-    .button span:after {
-      
-      position: absolute;
-      opacity: 0;
-      top: 0;
-     
-      transition: 0.5s;
-     
-    }
+   
     
     .button:hover span {
       padding-right: 25px;
