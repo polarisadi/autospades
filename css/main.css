@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('SkeletalWanCaecilian-max-1mb.gif'),url('d41586-018-06170-1_16092752.gif');
+    background-image: ,url('d41586-018-06170-1_16092752.gif'),url('SkeletalWanCaecilian-max-1mb.gif');
     background-size: 50% 55%, 45% 40%;
     background-repeat: no-repeat, no-repeat;
     background-position: bottom left, bottom right;
