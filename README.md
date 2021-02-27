@@ -1,6 +1,10 @@
 # autospades.io
 'Autospades' will make use of the data of satellites deployed in orbit to predict which is soon to defunct in order to develop and launch necessary missions to get rid of the satellite and its closeby junk through the 'Spades'
 
+Information about the project is at https://polarisadi.github.io/autospades.github.io/
+
+The data insights are published on the domain 
+
 The data of satellites used for plotting in R is at https://github.com/polarisadi/autospades.github.io/blob/main/Book-%20UCS-Satellite-Database.xlsx
 (Courtesy: UCS) 
 
