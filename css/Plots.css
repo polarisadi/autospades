@@ -38,7 +38,7 @@ ul {
  li a:hover {
      background-color: white;
      color: black;
-     border-radius: 25px;
+     border-radius: 0px;
  }
  h1 {
     text-align: center;
@@ -74,9 +74,9 @@ ul {
       text-align: center;
   }
   div {
-     display: flex;
+     
      justify-content: center;
-     flex-wrap: wrap;
+     
     }
   .industry-header {
       font-family: monospace;
@@ -87,7 +87,7 @@ ul {
     font-size: 18px;
   }
   span{
-    border-bottom:4px solid rgb(209, 54, 54);
+    border-bottom:4px solid #325dd3;
     padding-bottom: 5px;
   }
   @media screen and (max-width: 643px) {
