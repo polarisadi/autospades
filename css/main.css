@@ -1,11 +1,12 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('tech.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    background-image: url('d41586-018-06170-1_16092752.gif'),url('d41586-018-06170-1_16092752.gif') ;
+    background-size: auto;
+    background-repeat: no-repeat, no-repeat;
+    background-position: bottom left, bottom right;
     background-attachment: fixed;
+    background-color: #000;
   }
   
   
@@ -29,6 +30,7 @@ body {
   
   .topnav li {
   display: inline-block;
+  padding-bottom: 2px;
   }
   
   li a {
@@ -59,7 +61,7 @@ body {
   h1 {
     text-align: center;
     color: white;
-    font-size: 72px;
+    font-size: 60px;
     
     position: absolute;
     top: 10%;
@@ -74,11 +76,11 @@ body {
   h3 {
     text-align: center;
     font-size: 32px;
-    font-family: 'VT323', monospace;
-    text-indent: 4;
+    
+    
     color: white;
     position: absolute;
-    top: 35%;
+    top: 30%;
     width: 100%;
   }
   
@@ -100,17 +102,17 @@ body {
   
   .button {
       display: inline-block;
-      border-radius: 12px;
+      border-radius: 10px;
       background-color: white;
       border: none;
       color: black;
       text-align: center;
       font-size: 28px;
       padding: 20px;
-      width: 200px;
+      
       transition: all 0.5s;
      
-      margin: 5px;
+    
     }
   
     
@@ -124,7 +126,7 @@ body {
    
     
     .button:hover span {
-      padding-right: 25px;
+      padding:2px;
   
     }
     
