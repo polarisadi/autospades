@@ -3,8 +3,6 @@
 
 Information about the project is at https://polarisadi.github.io/autospades.github.io/
 
-The report is at https://drive.google.com/file/d/1d-VY3KfGVlnaXsJY2uaOAPleY-OhmIb7/view?usp=sharing
-
 The data of satellites used for plotting in R is at https://github.com/polarisadi/autospades.github.io/blob/main/Book-%20UCS-Satellite-Database.xlsx
 (Courtesy: UCS) 
 
